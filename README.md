@@ -1,4 +1,4 @@
-# Portfolio-Project
+# End-To-End Marketing Analytics Project
 This project is a complete end-to-end marketing analytics case study built using SQL for data transformation and Tableau for dashboarding. It demonstrates how to translate raw multi-channel retail data into meaningful insights about customer value, campaign performance, product behavior, and revenue drivers.
 
 The analysis covers customer segmentation, LTV modeling, campaign attribution, channel quartiles, and product co-purchase patterns—all critical skills for an entry-level Marketing Analyst, Business Analyst, or Marketing Data Analyst role.
