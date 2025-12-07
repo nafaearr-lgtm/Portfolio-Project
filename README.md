@@ -5,10 +5,12 @@ This project is a complete end-to-end marketing analytics case study built using
 
 The analysis covers customer segmentation, LTV modeling, campaign attribution, channel quartiles, and product co-purchase patterns—all critical skills for an entry-level Marketing Analyst, Business Analyst, or Marketing Data Analyst role.
 
-🛠️ Technical Implementation
+🛠️ Technical Implementation & Methodology
 Tools & Technologies
   - Tableau Desktop: Dashboard creation and visualization
-  - SQL + Power Query: Data extraction, transformation, and aggregation
+  - SQL: Querying for dataset creation
+  - Power Query: Data transformation, cleaning, and loading
+Methodology: This project was completed over a duration of 2 weeks. The raw dataset, imported from Kaggle, was first cleaned and transformed on a basic level inside Excel's Power Query. The cleaned dataset was then imported in DBeaver and queried using PostGreSQL. 6 datasets, each having a unique angle (customer profiling, channel analysis, product analysis, etc.) were created. Finally, the curated datasets were loaded onto Tableau alongside the clean base table for dashboard building and story-telling.   
 
 📊 Project Overview
 Using a multi-channel retail dataset (Catalog, Store, Web), the dashboard explores how customers behave across touchpoints, how different demographic groups respond to marketing campaigns, and how product categories interact to influence spend and customer lifetime value (LTV).
@@ -19,15 +21,14 @@ The final deliverable includes:
 - Cohort-style quartile and migration analysis
 - Product cross-sell insights
 
-Campaign performance deep-dive
-🔑 Key Insights
+Campaign performance Key Insights -> 
 
 1️⃣ Customer Demographics Show Strong Purchasing Power in Specific Segments
   - High-income and highly educated customers contribute the strongest LTV.
   - Certain countries consistently outperform others with significantly higher mean LTV, indicating concentrated revenue pools.
-  - Age distribution skews toward mature customers (mid-30s to late 40s), who also show higher repeat purchasing behavior.
+  - Age distribution skews toward mature customers (mid-50s to late 60s), who also show higher repeat purchasing behavior.
   - Marital status has a noticeable pattern: married customers tend to have higher LTV and higher campaign responsiveness.
-
+    
 📌 Implication:
   - Marketing spend should be focused on high-income, educated cohorts and geographies with proven LTV density.
 
