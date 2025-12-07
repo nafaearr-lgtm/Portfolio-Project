@@ -10,6 +10,7 @@ Tools & Technologies
   - Tableau Desktop: Dashboard creation and visualization
   - SQL: Querying for dataset creation
   - Power Query: Data transformation, cleaning, and loading
+    
 Methodology: This project was completed over a duration of 2 weeks. The raw dataset, imported from Kaggle, was first cleaned and transformed on a basic level inside Excel's Power Query. The cleaned dataset was then imported in DBeaver and queried using PostGreSQL. 6 datasets, each having a unique angle (customer profiling, channel analysis, product analysis, etc.) were created. Finally, the curated datasets were loaded onto Tableau alongside the clean base table for dashboard building and story-telling.   
 
 📊 Project Overview
