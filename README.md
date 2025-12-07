@@ -173,8 +173,9 @@ Median days since last purchase identifies which products are falling out of cus
 📌 Implication:
   - Products with high recency and declining YoY revenue should be re-marketed, repositioned, or replaced.
 
-📌 Summary of Impact
-This project simulates the everyday work of a Marketing Analyst. It answers real business questions:
+📌 Summary 
+
+This project simulates the everyday work of a Marketing Analyst. It answers the following business questions:
   - Who are our most valuable customers?
   - What drives campaign success?
   - How do different channels contribute to revenue?
